@@ -1,0 +1,2 @@
+rootProject.name='Frament'
+include ':app'
